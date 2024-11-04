@@ -1,4 +1,4 @@
-Here’s the README template in a format you can copy easily:
+
 
 ---
 
